@@ -1,0 +1,18 @@
+body {
+  min-height: 2000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 0px;
+}
+
+
+/*.navbar-inverse{background-color:#170B3B;
+				}
+.navbar .nav > li.dropdown.open.active > a:hover, 
+.navbar .nav > li.dropdown.open > a
+{
+   color: #fff;
+   background-color: #29088A;
+   border-color: #fff;
+}*/

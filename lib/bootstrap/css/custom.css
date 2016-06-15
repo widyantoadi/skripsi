@@ -1,0 +1,31 @@
+#add-address > i {
+	margin-right: 4px;
+}
+
+.thumbnail {
+	background-color: #eee;
+}
+
+.thumbnail .btn-remove-customer {
+	position: absolute; height: 30px; width: 30px; top: 1px; right: 16px; background-color: rgba(0,0,0,0.08); border: 1px solid #ddd; border-top: none; border-right: none; border-radius: 0 4px 0 4px; line-height: 2.8rem;
+}
+
+.thumbnail > img {
+	height:150px;
+}
+
+.thumbnail > .caption {
+	background-color: #fff;
+}
+
+.thumbnail > .caption > h3 {
+	margin-top: 0;
+}
+
+.thumbnail > .caption > h5 {
+	color:#999;
+}
+
+.thumbnail > .caption > ul.list-group {
+	margin-bottom: 0;
+}
